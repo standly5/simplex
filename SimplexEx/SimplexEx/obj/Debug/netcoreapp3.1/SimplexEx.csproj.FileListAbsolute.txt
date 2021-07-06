@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SimplexEx\SimplexEx\bin\Debug\netcoreapp3.1\SimplexEx.exe
+C:\Users\User\source\repos\SimplexEx\SimplexEx\bin\Debug\netcoreapp3.1\SimplexEx.deps.json
+C:\Users\User\source\repos\SimplexEx\SimplexEx\bin\Debug\netcoreapp3.1\SimplexEx.runtimeconfig.json
+C:\Users\User\source\repos\SimplexEx\SimplexEx\bin\Debug\netcoreapp3.1\SimplexEx.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimplexEx\SimplexEx\bin\Debug\netcoreapp3.1\SimplexEx.dll
+C:\Users\User\source\repos\SimplexEx\SimplexEx\bin\Debug\netcoreapp3.1\SimplexEx.pdb
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.AssemblyInfo.cs
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.dll
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.pdb
+C:\Users\User\source\repos\SimplexEx\SimplexEx\obj\Debug\netcoreapp3.1\SimplexEx.genruntimeconfig.cache
